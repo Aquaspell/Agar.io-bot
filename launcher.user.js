@@ -486,7 +486,7 @@ console.log("Running Bot Launcher!");
 
     //UPDATE
     if (getPlayer().length == 0) {
-        setNick(originalName);
+        setNick(originalName);Bok
     }
 
     var a;
